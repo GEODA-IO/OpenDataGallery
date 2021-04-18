@@ -1,2 +1,2 @@
 # StaticViz
-Root directory for static visualization projects
+theDataLoop | Static Visualization Directory
