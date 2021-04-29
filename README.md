@@ -1,2 +1,2 @@
-# StaticViz
-theDataLoop | Static Visualization Directory
+# StaticVizResources
+theDataLoop | Static Visualization Resources
