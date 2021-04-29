@@ -1,2 +1,2 @@
 # StaticVizResources
-theDataLoop | Static Visualization Resources
+GEODA.IO | Static Visualization Resources
